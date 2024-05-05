@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightskyblue;
+    margin: 0px;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    width: 1200px;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+   
+}
+
+nav {
+  background-color: lightskyblue;
+  padding: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: px;
+  border-radius: 20px;
+  
+
+}
+
+nav > a {
+    color: white;
+    text-decoration: none;
+    margin-left: 145px;
+    padding: 10px;
+    background-color: lightskyblue;
+    border-radius: 12px;
+    
+
+}
+
+nav > a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: lightskyblue;
+    
+}
+
+section#Noticias {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+section > p {
+    font-size: 30px;
+}
+
+.Lorem {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 60px;
+
+}
+
+article {
+    padding-bottom: 16px;
+    padding-top: 16px;
+    margin: 5px;
+}
+
+article > aside {
+    color: white;
+    background-color: black;
+    margin: 0px;
+    padding: 5px;
+    margin-top: 60px;
+
+}
+
+main {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 1px;
+}

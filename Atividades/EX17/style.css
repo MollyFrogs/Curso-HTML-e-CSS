@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(172, 207, 241);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1#Principal{
+    text-align: center;
+    background-color: rgb(166, 221, 255);
+    border-radius: 20px;
+}
+
+h1 {
+    color: rgb(32, 140, 248);
+}
+
+h2 {
+   color: rgb(55, 106, 157);
+
+}
+
+.destaque {
+
+    color: blue;
+
+}
